@@ -2,6 +2,8 @@
 
 return array(
 
+	'package' => 'saitswebuwm/shibboleth',
+
 	/*
 	|--------------------------------------------------------------------------
 	| Default Authentication Driver
